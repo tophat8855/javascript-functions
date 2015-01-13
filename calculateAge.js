@@ -5,3 +5,5 @@ function calculateAge(birthYear) {
 }
 
 calculateAge(1997)
+calculateAge(1988)
+calculateAge(1962)
